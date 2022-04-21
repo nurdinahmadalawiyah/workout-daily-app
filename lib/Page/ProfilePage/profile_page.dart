@@ -32,7 +32,7 @@ class _ProfilePageState extends State<ProfilePage> {
             Align(
               alignment: Alignment.center,
               child: Container(
-                margin: const EdgeInsets.only(top: 200),
+                margin: const EdgeInsets.only(top: 190),
                 padding:
                     const EdgeInsets.symmetric(horizontal: 20, vertical: 5),
                 width: size.width * 0.9,
@@ -52,7 +52,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 child: Column(
                   children: const [
                     ProfileName(),
-                    SizedBox(height: 35),
+                    SizedBox(height: 25),
                     DetailProfile1(),
                     SizedBox(height: 35),
                     DetailProfile2(),
@@ -64,7 +64,7 @@ class _ProfilePageState extends State<ProfilePage> {
             Align(
               alignment: Alignment.center,
               child: Container(
-                margin: const EdgeInsets.only(top: 550),
+                margin: const EdgeInsets.only(top: 520),
                 width: size.width * 0.9,
                 height: size.height * 0.05,
                 child: Row(
@@ -91,7 +91,7 @@ class _ProfilePageState extends State<ProfilePage> {
             Align(
               alignment: Alignment.center,
               child: Container(
-                margin: const EdgeInsets.only(top: 600),
+                margin: const EdgeInsets.only(top: 560),
                 width: size.width * 0.9,
                 height: size.height * 0.15,
                 child: Row(

@@ -3,7 +3,7 @@ import 'package:workout_daily_app/colors.dart';
 
 Container ImageProfile(Size size) {
   return Container(
-    margin: const EdgeInsets.only(top: 155, left: 50),
+    margin: const EdgeInsets.only(top: 140, left: 50),
     height: size.height * 0.15,
     width: size.width * 0.2,
     decoration: BoxDecoration(
