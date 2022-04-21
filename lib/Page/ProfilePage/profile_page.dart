@@ -101,8 +101,8 @@ class _ProfilePageState extends State<ProfilePage> {
                       borderRadius: BorderRadius.circular(15),
                       child: Image.network(
                         'https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
-                        height: 120,
-                        width: 120,
+                        height: 100,
+                        width: 100,
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -110,8 +110,8 @@ class _ProfilePageState extends State<ProfilePage> {
                       borderRadius: BorderRadius.circular(15),
                       child: Image.network(
                         'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
-                        height: 120,
-                        width: 120,
+                        height: 100,
+                        width: 100,
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -119,8 +119,8 @@ class _ProfilePageState extends State<ProfilePage> {
                       borderRadius: BorderRadius.circular(15),
                       child: Image.network(
                         'https://images.unsplash.com/photo-1611264311037-225e8118c6e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
-                        height: 120,
-                        width: 120,
+                        height: 100,
+                        width: 100,
                         fit: BoxFit.cover,
                       ),
                     ),
